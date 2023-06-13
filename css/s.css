@@ -131,10 +131,7 @@ td.win
     color: green;
 }
 
-footer
-{
-    padding-top: 400px;
-}
+
 
 body
 {
@@ -177,4 +174,53 @@ button.botaotopo:hover
 html
 {
     scroll-behavior: smooth;
+}
+
+footer
+{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: var(--cor1);
+    margin-top: 50px;
+}
+
+div.rodape
+{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+
+}
+
+div.rodape:hover
+{
+    border-radius: 50%;
+}
+
+div.rodape > p
+{
+    color: black;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    font-weight: bolder;
+
+}
+
+img.lolesports
+{
+    width: 100%;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+img.lolesports:hover
+{
+    transform: scale(1.2);
 }

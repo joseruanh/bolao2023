@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+::-webkit-scrollbar
+{
+    width: 1px;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background-color: var(--cor5);
+}
+
+:root
+{
+    --cor1: #012E40;
+    --cor2: #024959;
+    --cor3: #026773;
+    --cor4: #3CA6A6;
+    --cor5: #F2E3D5;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    color: var(--cor1);
+}
+
+header
+{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor1);
+    margin: auto;
+    padding: 20px 0px;
+
+    box-shadow: 0px 0px 30px var(--cor1);
+
+}
+
+div.botao
+{
+    width: 100%;
+}
+
+button.pontos
+{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    border-radius: 0px 0px 30px 30px;
+    background: var(--cor1);
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button.pontos:hover
+{
+    background-color: var(--cor4);
+    color: black;
+}
+
+header > div > p 
+{
+    font-weight: bolder;
+}
+
+p.titulo
+{
+    font-size: 32px;
+    color: white;
+}
+
+main
+{
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    background-color: var(--cor5);
+    padding: 0px 0px 50px 0px;
+    border-radius: 0px 0px 30px 30px;
+
+    box-shadow: 0px 0px 30px var(--cor1);
+}
+
+div.principal
+{
+    padding: 80px 0px 0px 0px;
+    max-width: 95%;
+    margin: auto;
+}
+
+div.principal > p
+{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+table
+{
+    width: 100%;
+
+    border-collapse: collapse;
+}
+
+td
+{
+    width: 100px;
+
+    padding: 3px;
+    text-align: center;
+}
+
+td.nome, td.pontos
+{
+    font-weight: bolder;
+}
+
+td.win
+{
+    color: green;
+}
+
+footer
+{
+    padding-top: 400px;
+}
+
+body
+{
+    background-color: var(--cor4);
+}

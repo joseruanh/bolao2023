@@ -120,6 +120,11 @@ td.nome, td.pontos
     font-weight: bolder;
 }
 
+td.pontos
+{
+    font-size: 10px;
+}
+
 td.win
 {
     color: green;

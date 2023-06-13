@@ -63,3 +63,8 @@ function reload()
 {
     location.reload();
 }
+
+function topo()
+{
+    window.scrollTo(0, 0)
+}

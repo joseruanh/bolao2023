@@ -68,3 +68,8 @@ function topo()
 {
     window.scrollTo(0, 0)
 }
+
+function jogos()
+{
+    window.alert("em breve")
+}

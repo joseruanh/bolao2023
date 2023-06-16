@@ -1,0 +1,61 @@
+:root
+{
+    --cor1: #012E40;
+    --cor2: #024959;
+    --cor3: #026773;
+    --cor4: #3CA6A6;
+    --cor5: #F2E3D5;
+}
+
+div.jogos
+{
+    width: 100%;
+    margin: auto;
+
+
+}
+
+div.rodadas
+{
+    text-align: center;
+    margin: auto;
+    width: 96%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+    margin: 2px 0px 50px 0px;
+
+
+}
+
+div.info
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div.info > div
+{
+    width: 100px;
+
+    margin: 0px 2px 0px 2px;
+}
+
+img.versus
+{
+    width: 30px;
+}
+
+img.time
+{
+    width: 50px;
+}
+
+p.rodadaJogos
+{
+    font-weight: bolder;
+    font-size: 20px;
+}

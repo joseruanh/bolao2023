@@ -70,8 +70,7 @@ button.pontos
 
 button.pontos:hover
 {
-    background-color: var(--cor5);
-    color: black;
+    background-color: var(--cor3);
 }
 
 header > div > p 

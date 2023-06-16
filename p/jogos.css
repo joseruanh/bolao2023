@@ -59,3 +59,31 @@ p.rodadaJogos
     font-weight: bolder;
     font-size: 20px;
 }
+
+button.assistir
+{
+    border: none;
+    padding: 5px;
+    background-color: var(--cor1);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 11px;
+    transition: 0.3s;
+}
+button.assistir:hover
+{
+    background-color: var(--cor2);
+}
+
+div.assistir
+{
+    text-align: center;
+    max-width: 560px;
+    margin: auto;
+}
+
+iframe
+{
+    border-radius: 10px;
+}

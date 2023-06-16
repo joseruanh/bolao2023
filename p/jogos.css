@@ -79,12 +79,12 @@ button.assistir:hover
 div.assistir
 {
     text-align: center;
-    max-width: 560px;
+    width: 100%;
     margin: auto;
 }
 
 iframe
 {
     border-radius: 10px;
-    max-width: 100%;
+    width: 100%;
 }

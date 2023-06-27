@@ -11,33 +11,35 @@ function pontos()
 
             <tr>
             <td> <img src="images/pedro.jpg" alt="perfil" class="perfil"> </td>
-            <td class="nome">Pedro</td> <td>12 pontos</td>
+            <td class="nome">Pedro</td> <td>20 pontos</td>
             </tr>
 
             <tr>
             <td> <img src="images/eu.png" src="perfil" class="perfil"> </td>
-            <td class="nome">Ruanh</td> <td>10 pontos</td>
+            <td class="nome">Ruanh</td> <td>18 pontos</td>
             </tr>
             
             <tr>
             <td> <img src="images/marcos.png" alt="perfil" class="perfil"> </td>
-            <td class="nome">Relâmpago</td> <td>9 pontos</td>
-            </tr>
-
-            <tr>
-            <td> <img src="images/brener.png" class="perfil"> </td>
-            <td class="nome">Brener</td> <td>8 pontos</td>
-            </tr>
-          
-            <tr>
-            <td> <img src="images/pickles.png" alt="perfil" class="perfil"> </td>
-            <td class="nome">Mr Pickles</td> <td>8 pontos</td>
+            <td class="nome">Relâmpago</td> <td>18 pontos</td>
             </tr>
 
             <tr>
             <td> <img src="images/semfoto.png" alt="perfil" class="perfil"> </td>
-            <td class="nome">Ademiro</td> <td>8 pontos</td>
+            <td class="nome">Ademiro</td> <td>17 pontos</td>
             </tr>
+
+            <tr>
+            <td> <img src="images/brener.png" class="perfil"> </td>
+            <td class="nome">Brener</td> <td>15 pontos</td>
+            </tr>
+          
+            <tr>
+            <td> <img src="images/pickles.png" alt="perfil" class="perfil"> </td>
+            <td class="nome">Mr Pickles</td> <td>15 pontos</td>
+            </tr>
+
+            
 
             <tr>
             <td> <img src="images/semfoto.png" alt="perfil" class="perfil"> </td>

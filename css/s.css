@@ -99,46 +99,12 @@ main
 
 div.principal
 {
-    padding: 80px 0px 0px 0px;
+    padding: 40px 0px 0px 0px;
     max-width: 95%;
     margin: auto;
-}
-
-div.principal > p
-{
-    font-weight: bolder;
-    font-size: 20px;
-}
-
-table
-{
-    width: 100%;
-
-    border-collapse: collapse;
-}
-
-td
-{
-    width: 100px;
-
-    padding: 3px;
     text-align: center;
 }
 
-td.nome, td.pontos
-{
-    font-weight: bolder;
-}
-
-td.pontos
-{
-    font-size: 10px;
-}
-
-td.win, div.win
-{
-    color: rgb(0, 136, 0);
-}
 
 
 
@@ -234,4 +200,17 @@ img.lolesports:hover
 a
 {
     text-decoration: none;
+}
+
+img.rodadas
+{
+    width: 90%;
+    cursor: pointer;
+    transition: 0.2s;
+
+}
+
+img.rodadas:hover
+{
+    transform: scale(1.1);
 }

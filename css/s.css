@@ -207,6 +207,7 @@ img.rodadas
     width: 90%;
     cursor: pointer;
     transition: 0.2s;
+    border-radius: 10px;
 
 }
 

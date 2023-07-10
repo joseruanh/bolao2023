@@ -25,12 +25,12 @@ function pontos()
             </tr>
 
             <tr>
-            <td> <img src="images/semfoto.png" alt="perfil" class="perfil"> </td>
+            <td> <img src="images/ademiro.enc" alt="perfil" class="perfil"> </td>
             <td class="nome">Ademiro</td> <td>17 pontos</td>
             </tr>
 
             <tr>
-            <td> <img src="images/brener.png" class="perfil"> </td>
+            <td> <img src="images/brener.enc" class="perfil"> </td>
             <td class="nome">Brener</td> <td>15 pontos</td>
             </tr>
           

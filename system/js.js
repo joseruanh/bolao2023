@@ -11,27 +11,27 @@ function pontos()
 
             <tr>
             <td> <img src="images/eu.png" src="perfil" class="perfil"> </td>
-            <td class="nome">Ruanh</td> <td>35 pontos</td>
+            <td class="nome">Ruanh</td> <td>48 pontos</td>
             </tr>
 
             <tr>
             <td> <img src="images/pedro.jpg" alt="perfil" class="perfil"> </td>
-            <td class="nome">Pedro</td> <td>35 pontos</td>
-            </tr>
-
-            <tr>
-            <td> <img src="images/ademiro.enc" alt="perfil" class="perfil"> </td>
-            <td class="nome">Ademiro</td> <td>33 pontos</td>
+            <td class="nome">Pedro</td> <td>46 pontos</td>
             </tr>
 
             <tr>
             <td> <img src="images/pickles.png" alt="perfil" class="perfil"> </td>
-            <td class="nome">Mr Pickles</td> <td>33 pontos</td>
+            <td class="nome">Mr Pickles</td> <td> 46 pontos</td>
             </tr>
 
             <tr>
+            <td> <img src="images/ademiro.enc" alt="perfil" class="perfil"> </td>
+            <td class="nome">Ademiro</td> <td>45 pontos</td>
+            </tr>            
+
+            <tr>
             <td> <img src="images/brener.enc" class="perfil"> </td>
-            <td class="nome">Brener</td> <td>26 pontos</td>
+            <td class="nome">Brener</td> <td>29 pontos</td>
             </tr> 
             
             <tr>
